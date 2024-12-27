@@ -1,0 +1,11 @@
+C:\Users\exeee\source\repos\ClientesAPI\Consumiendo API Clientes\bin\Debug\Consumiendo API Clientes.exe.config
+C:\Users\exeee\source\repos\ClientesAPI\Consumiendo API Clientes\bin\Debug\Consumiendo API Clientes.exe
+C:\Users\exeee\source\repos\ClientesAPI\Consumiendo API Clientes\bin\Debug\Consumiendo API Clientes.pdb
+C:\Users\exeee\source\repos\ClientesAPI\Consumiendo API Clientes\obj\Debug\Consumiendo API Clientes.csproj.AssemblyReference.cache
+C:\Users\exeee\source\repos\ClientesAPI\Consumiendo API Clientes\obj\Debug\Consumiendo_API_Clientes.Views.AgregarCliente.resources
+C:\Users\exeee\source\repos\ClientesAPI\Consumiendo API Clientes\obj\Debug\Consumiendo_API_Clientes.Form1.resources
+C:\Users\exeee\source\repos\ClientesAPI\Consumiendo API Clientes\obj\Debug\Consumiendo_API_Clientes.Properties.Resources.resources
+C:\Users\exeee\source\repos\ClientesAPI\Consumiendo API Clientes\obj\Debug\Consumiendo API Clientes.csproj.GenerateResource.cache
+C:\Users\exeee\source\repos\ClientesAPI\Consumiendo API Clientes\obj\Debug\Consumiendo API Clientes.csproj.CoreCompileInputs.cache
+C:\Users\exeee\source\repos\ClientesAPI\Consumiendo API Clientes\obj\Debug\Consumiendo API Clientes.exe
+C:\Users\exeee\source\repos\ClientesAPI\Consumiendo API Clientes\obj\Debug\Consumiendo API Clientes.pdb
